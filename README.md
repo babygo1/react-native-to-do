@@ -32,7 +32,7 @@ Advanced Goals
 
 해보시고 싶은 모든 것을 진행해보시면 좋겠습니다.
 
-1. React Context Api, Redux 등의 global state로 to-do 리스트 구현해보기
+1. recoil을 이용한 to-do 리스트 구현해보기
 2. 1.의 list가 앱 종료 후 다시 실행할 때에도 유지되는 방안을 고민해보기
 3. 기기별 가로 세로 비를 고려해 더 나은 design props을 넣는 방안을 고민해보기
 4. etc...
